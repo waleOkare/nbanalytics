@@ -1,0 +1,26 @@
+GameID,Date,HomeTeamID,AwayTeamID,Venue,HomeScore,AwayScore
+1,2024-10-01,1,2,Staples Center,110,105
+2,2024-10-02,3,4,Chase Center,120,115
+3,2024-10-03,5,6,American Airlines Center,100,102
+4,2024-10-04,7,8,Wells Fargo Center,98,99
+5,2024-10-05,9,10,T.D. Garden,115,112
+6,2024-10-06,11,12,Smoothie King Center,104,106
+7,2024-10-07,13,14,Capital One Arena,110,108
+8,2024-10-08,15,16,Quicken Loans Arena,105,107
+9,2024-10-09,17,18,Fiserv Forum,102,103
+10,2024-10-10,1,3,Staples Center,120,118
+11,2024-10-11,5,7,American Airlines Center,101,110
+12,2024-10-12,9,11,T.D. Garden,115,114
+13,2024-10-13,13,15,Capital One Arena,108,100
+14,2024-10-14,17,1,Fiserv Forum,107,109
+15,2024-10-15,3,5,Chase Center,112,113
+16,2024-10-16,7,9,Wells Fargo Center,110,108
+17,2024-10-17,11,13,Smoothie King Center,106,105
+18,2024-10-18,15,17,Quicken Loans Arena,102,101
+19,2024-10-19,2,4,Footprint Center,115,118
+20,2024-10-20,6,8,Ball Arena,111,112
+21,2024-10-21,10,12,Kaseya Center,120,110
+22,2024-10-22,14,16,Footprint Center,118,117
+23,2024-10-23,18,2,FedEx Forum,110,112
+24,2024-10-24,4,6,Footprint Center,113,111
+25,2024-10-25,8,10,Ball Arena,114,112
