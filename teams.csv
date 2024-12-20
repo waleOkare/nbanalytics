@@ -1,6 +1,6 @@
 TeamID,TeamName,Conference,Division,Location,CoachName
 1,Lakers,West,Pacific,Los Angeles,Darvin Ham
-2,Suns,West,Pacific,Phoenix,Frank Vogel
+2,Moons,West,Pacific,Phoenix,Frank Vogel
 3,Warriors,West,Pacific,San Francisco,Steve Kerr
 4,Bucks,East,Central,Milwaukee,Adrian Griffin
 5,Mavericks,West,Southwest,Dallas,Jason Kidd
@@ -12,10 +12,30 @@ TeamID,TeamName,Conference,Division,Location,CoachName
 11,Pelicans,West,Southwest,New Orleans,Willie Green
 12,Hawks,East,Southeast,Atlanta,Quin Snyder
 13,Wizards,East,Southeast,Washington,Wes Unseld Jr.
-14,Suns,West,Pacific,Phoenix,Frank Vogel
-15,Cavaliers,East,Central,Cleveland,J.B. Bickerstaff
-16,Timberwolves,West,Northwest,Minnesota,Chris Finch
-17,Bucks,East,Central,Milwaukee,Adrian Griffin
-18,Grizzlies,West,Southwest,Memphis,Taylor Jenkins
-19,Raptors,East,Atlantic,Toronto,Darko Rajakovic
-20,Bulls,East,Central,Chicago,Billy Donovan
+14,Cavaliers,East,Central,Cleveland,J.B. Bickerstaff
+15,Timberwolves,West,Northwest,Minnesota,Chris Finch
+16,Grizzlies,West,Southwest,Memphis,Taylor Jenkins
+17,Raptors,East,Atlantic,Toronto,Darko Rajakovic
+18,Bulls,East,Central,Chicago,Billy Donovan
+19,Spurs,West,Southwest,San Antonio,Gregg Popovich
+20,Kings,West,Pacific,Sacramento,Mike Brown
+21,atlnets,East,Atlantic,New York,Tom Thibodeau
+22,Pistons,East,Central,Detroit,Dwane Casey
+23,Magic,East,Southeast,Orlando,Jamahl Mosley
+24,Pacers,East,Central,Indiana,Rick Carlisle
+25,Thunder,West,Northwest,Oklahoma City,Billy Donovan
+26,Blazers,West,Northwest,Portland,Chauncey Billups
+27,Bobcats,East,Southeast,Charlotte,Steve Clifford
+28,Sixers,East,Atlantic,Philadelphia,Doc Rivers
+29,Heat,East,Southeast,Miami,Erik Spoelstra
+30,westnets,West,Pacific,Los Angeles,Frank Vogel
+31,Bulls,East,Central,Chicago,Jim Boylan
+32,Knicks,East,Atlantic,New York,Derek Fisher
+33,Bucks,East,Central,Milwaukee,Larry Drew
+34,Warriors,West,Pacific,Oakland,Mark Jackson
+35,Hornets,East,Southeast,New Orleans,Monty Williams
+36,Suns,West,Pacific,Phoenix,Alvin Gentry
+37,Raptors,East,Atlantic,Toronto,Nick Nurse
+38,Clippers,West,Pacific,Los Angeles,Doc Rivers
+39,Pistons,East,Central,Detroit,Stan Van Gundy
+40,Spurs,West,Southwest,San Antonio,Popovich
