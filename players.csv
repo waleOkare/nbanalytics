@@ -1,6 +1,6 @@
 PlayerID,FirstName,LastName,DOB,Height,Weight,Position,TeamID,StartDate
-1,LeBron,James,1984-12-30,6'9",250,Forward,1,2018-07-01
-2,Kevin,Durant,1988-09-29,6'10",240,Forward,2,2022-02-10
+1,LeBron,James,1984-12-30,6'9",250,Forward,3,2018-07-01
+2,Kevin,Durant,1988-09-29,6'10",240,Forward,3,2022-02-10
 3,Stephen,Curry,1988-03-14,6'3",185,Guard,3,2009-06-25
 4,Giannis,Antetokounmpo,1994-12-06,6'11",242,Forward,4,2013-10-18
 5,Luka,Doncic,1999-02-28,6'7",230,Guard,5,2018-07-06
